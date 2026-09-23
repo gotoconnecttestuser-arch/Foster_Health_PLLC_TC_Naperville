@@ -11,14 +11,15 @@ Naperville, IL 60563-1637
 Phone: +1 (331) 251-4805
 Email: fosterhealthpllc@gmail.com
 
-By opting in to receive SMS messages from AFC Urgent Care Naperville, you agree to receive customer care messages.
+By providing your mobile number to AFC Urgent Care Naperville, you agree to receive SMS conversational messages from AFC Urgent Care Naperville.
 
+Message type: conversational messages
 Message frequency: Message frequency may vary. On average, 1-2 messages per month.
-Opt-out: Reply STOP to unsubscribe at any time.
+Consent: Your consent to receive SMS messages is not a condition of purchase.
+Opt out: Reply STOP to unsubscribe at any time.
 Help: Reply HELP for assistance.
+Privacy policy: [https://github.com/gotoconnecttestuser-arch/Foster_Health_PLLC_PP](https://github.com/gotoconnecttestuser-arch/Foster_Health_PLLC_PP)
 Message and data rates: Message and data rates may apply.
-Privacy Policy: Please review our Privacy Policy at https://github.com/gotoconnecttestuser-arch/Foster_Health_PLLC_PP
-Your consent to receive SMS messages is not a condition of purchase or treatment.
 
 1. Healthcare Services
 
